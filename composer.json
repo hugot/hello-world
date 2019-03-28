@@ -1,0 +1,17 @@
+{
+    "name": "hthunnissen/hello-world",
+    "description": "Hello world!",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hugo Thunnissen",
+            "email": "hthunnissen@hostnet.nl"
+        }
+    ],
+    "bin": [
+        "bin/hello-world"
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
