@@ -9,6 +9,11 @@
             "email": "hugo@hugot.nl"
         }
     ],
+    "hostnet-toolbox": {
+        "bin": [
+            "bin/hello-world"
+        ]
+    },
     "bin": [
         "bin/hello-world"
     ],
