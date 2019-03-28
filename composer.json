@@ -1,12 +1,12 @@
 {
-    "name": "hthunnissen/hello-world",
+    "name": "hugot/hello-world",
     "description": "Hello world!",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Hugo Thunnissen",
-            "email": "hthunnissen@hostnet.nl"
+            "email": "hugo@hugot.nl"
         }
     ],
     "bin": [
